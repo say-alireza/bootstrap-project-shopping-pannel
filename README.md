@@ -52,4 +52,3 @@ Credits
     Framework: Bootstrap
     Inspiration: BootstrapMade's "Append" demo
 
-Let me know if you'd like me to customize this further!
