@@ -15,7 +15,7 @@ Features
 <h3>visual content </h3>
 ![Screenshot from 2025-03-11 14-54-15](https://github.com/user-attachments/assets/8d578e15-d7b9-481b-a8cb-fbf4104e0dbd)
 
-
+![Screenshot from 2025-03-11 14-54-15](https://i.imgur.com/xyz123.png) 
 Technologies Used
 
     HTML5
