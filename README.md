@@ -13,7 +13,10 @@ Features
     Product Pages: Cleanly designed product listing and detail pages.
     User-Friendly Navigation: Intuitive and seamless navigation experience.
 <h3>visual content </h3>
-![picture one](https://github.com/user-attachments/assets/8d578e15-d7b9-481b-a8cb-fbf4104e0dbd)
+ you can see the real page in this link 
+(https://bootstrapmade.com/demo/Append/)
+my mentor helped me with this project and rember there is not such a thing as developer tools usage you can check it yourself the visual might be the same but the code is diffrent
+
 Technologies Used
 
     HTML5
