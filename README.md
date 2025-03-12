@@ -1,5 +1,5 @@
 <H1>Shopping Site Project</H1>
-![shopping_pannel 🌻](https://github.com/user-attachments/assets/626f2197-4022-4a0b-a353-5d1f39df96d8)
+![shoppin banner](https://github.com/user-attachments/assets/626f2197-4022-4a0b-a353-5d1f39df96d8)
 
 
 
