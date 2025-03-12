@@ -1,9 +1,9 @@
 <H1>Shopping Site Project</H1>
-![shoppin banner](https://github.com/user-attachments/assets/626f2197-4022-4a0b-a353-5d1f39df96d8)
+
+![shopping_pannel 🌻](https://github.com/user-attachments/assets/a62a2638-38d5-467f-b8e3-a3fb8400b07a)
 
 
-
-This is a Bootstrap-based shopping site project inspired by the "Append" demo from BootstrapMade. This project was developed entirely from scratch, without using browser inspect tools, ensuring original and unique implementation. The guidance for this project was provided by Mr. Mohajer, my mentor.
+This is a Bootstrap-based shopping site project inspired by the "Append" demo from BootstrapMade. This project was developed entirely from scratch, without using browser inspect tools, ensuring original and unique implementation. The guidance for this project was provided by Mr. Mohajer (it manager in jahad daneshgahi section) , my mentor.
 Features
 
     Responsive Design: Fully optimized for various screen sizes.
